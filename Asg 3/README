@@ -1,0 +1,14 @@
+Viraj Patel (vispatel@ucsc.edu)
+Assignment 3: hzip.st
+
+NAME
+    hzip.st - file compression and decompression utility
+
+SYNOPSIS
+    hzip.st -dtcu inputfile [outputfile]
+
+OPTIONS
+    -d    debug info displayed
+    -t    Compression activated, decode tree printed to stdout
+    -c    Compression activated and written to outputfile
+    -u    Input file assumed compress and uncompressed written to stdout

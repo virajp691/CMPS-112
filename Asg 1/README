@@ -1,0 +1,23 @@
+Viraj Patel - vispatel@ucsc.edu
+CMPS 112 F 2016-17
+Assignment 1 Scheme Silly Basic Interpreter
+
+NAME
+   sbi.scm
+
+USAGE
+   sbi.scm <filename>
+
+OPERANDS/OPTIONS
+Single filename argument specifying the SBIR program to run
+No Optional arguments
+
+DESCRIPTION
+Reads in a SBIR program from the file argument, stores it in a
+list, then interprets the list. Results output to STDOUT.
+Error messages printed to STDERR, and causes a message to be printed
+and sets exit code 1.
+
+EXIT CODE
+1 - Failure
+0 - Successful

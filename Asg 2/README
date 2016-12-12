@@ -1,0 +1,14 @@
+Viraj Patel -- vispatel@ucsc.edu
+Assignment 2
+CMPS 112 F16 Mackey
+
+NAME
+ocamldc - ocaml version of dc (an arbitrary precision calculator)
+
+SYNOPSIS
+ocamldc [file] [stdin]
+
+DESCRIPTION
+Ocaml language version of linux dc. See dc(1) for more info
+
+  

@@ -1,0 +1,9 @@
+Viraj Patel (vispatel@ucsc.edu)
+Assignment 4 --- Airline Reservation System ---
+
+NAME 
+    functions.pl
+
+SYNOPSIS
+   ?- fly( [Destination], [Arrival] ).
+
